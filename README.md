@@ -59,7 +59,7 @@ Below are the key visuals from the analysis:
 ![Ez-Pill Performance](EZPill.png)
 
 ### 2. Home Dashboard
-![Home Dashboard](home.png)
+![Home Dashboard](Home.png)
 
 ---
 
